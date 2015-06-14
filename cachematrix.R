@@ -1,15 +1,15 @@
-## Put comments here that give an overall description of what your
-## functions do
+# This file contains two main functions that solve Programming Assignment 2 in the Coursera R course from the John Hopkins University
+# The assigmemnt is solved by Martin Höst / martin.l.host@gmail.com
 
-## Write a short comment describing this function
 
+# This function generates a new matrix that can be used as input to the casheSolve function
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## This function gives the inverse of a matrix that is produced by the makeCacheMatrix function
 
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
+        
 }
